@@ -42,9 +42,8 @@ Key concepts and takeaways
 
 You can find additional lab materials and presentation content at the locations below:
 
-Presentation: https://github.com/mikebranstein/GlobalAzureDay2017/blob/master/Azure%20Bootcamp.pptx
-Source code for the code used in this guide: https://github.com/mikebranstein/GlobalAzureDay2017
-This guide: https://github.com/mikebranstein/GlobalAzureDay2017-instructions
+Presentation: https://raw.githubusercontent.com/DamianFlynn/Events/master/2018-03-Booster/Azure%20Serverless.pptx
+Source code for the code used in this guide: https://github.com/DamianFlynn/Events/tree/master/2018-03-Booster
 
 ### Creating a Trial Azure Subscription
 

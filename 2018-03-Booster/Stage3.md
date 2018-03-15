@@ -27,7 +27,7 @@ public static HttpResponseMessage Run(HttpRequestMessage req, string name, Trace
 
    ![](./img/HttpTriggerUrl.png)
 
-1. Copy the URL, we need this to launch the test `https://deercrest.azurewebsites.net/api/HttpTriggerCSharp/name/{name}?code=QHHaKOxaQY493/IZaEyXBjdpsqE0W5erdw75n7/jf3KanxwzZtMWNA==`
+1. Copy the URL, we need this to launch the test `https://deercrest.azurewebsites.net/api/HttpTriggerCSharp/name/{name}?code=.............`
 
 1. Now, after browsing to the address, the function will be triggered, and we will see the results in the calling platform, and the logs of the function
 
